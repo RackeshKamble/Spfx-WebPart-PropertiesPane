@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-web-part-properties-pane-client-side-solution",
+    "id": "ecb06489-17b1-4052-843c-2deeea16af29",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-web-part-properties-pane.sppkg"
+  }
+}
