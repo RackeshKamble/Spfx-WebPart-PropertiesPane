@@ -1,5 +1,9 @@
 # SPFX WebPart Properties Pane Demonstaration
+# Screenshot of the Webpart 
 
+src/webparts/spfxWebPartPropertiesPane/WPOutput
+
+# Description of the webpart
 The property pane consists of the 3 elements. 
 • Pages 
 • Headers 
